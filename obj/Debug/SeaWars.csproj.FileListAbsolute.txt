@@ -1,0 +1,10 @@
+C:\Users\Самсонов Гавриил\Desktop\kris\lov\bin\Debug\SeaWars.exe.config
+C:\Users\Самсонов Гавриил\Desktop\kris\lov\bin\Debug\SeaWars.exe
+C:\Users\Самсонов Гавриил\Desktop\kris\lov\bin\Debug\SeaWars.pdb
+C:\Users\Самсонов Гавриил\Desktop\kris\lov\obj\Debug\SeaWars.csproj.AssemblyReference.cache
+C:\Users\Самсонов Гавриил\Desktop\kris\lov\obj\Debug\SeaWars.Form1.resources
+C:\Users\Самсонов Гавриил\Desktop\kris\lov\obj\Debug\SeaWars.Properties.Resources.resources
+C:\Users\Самсонов Гавриил\Desktop\kris\lov\obj\Debug\SeaWars.csproj.GenerateResource.cache
+C:\Users\Самсонов Гавриил\Desktop\kris\lov\obj\Debug\SeaWars.csproj.CoreCompileInputs.cache
+C:\Users\Самсонов Гавриил\Desktop\kris\lov\obj\Debug\SeaWars.exe
+C:\Users\Самсонов Гавриил\Desktop\kris\lov\obj\Debug\SeaWars.pdb
